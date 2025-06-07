@@ -49,7 +49,7 @@ Here is a complete example with unpkg
   <i data-lucide="x"></i>
   <i data-lucide="menu"></i>
 
-  <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="https://www.unpkg.com/lucide@latest"></script>
   <script>
     lucide.createIcons();
   </script>
